@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function App() {
   return (
-    <div className='text-3xl font-bold underline text-red-600'>App</div>
+    <div className='container mx-auto max-w-7xl'>App</div>
   )
 }
